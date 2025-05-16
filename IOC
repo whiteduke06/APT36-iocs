@@ -1,0 +1,175 @@
+#Updated on 16th May 2025
+
+### ASN
+AS31400
+AS202391
+AS8100
+AS45839
+AS59711
+
+### CVE
+CVE-2023-39234
+
+### MALICIOUS DOMAINS
+richa-sharma.ddns[.]net
+cloud-drive[.]store
+drive-phone[.]online
+s1.fileditch[.]ch
+sunnyleone.hopto[.]org
+trade4wealth[.]in
+email.gov.in.drdosurvey[.]info
+email.gov.in.avtzyu[.]store
+jkpolice[.]gov[.]in[.]kashmirattack[.]exposed/service/home/
+hxxps://jkpolice[.]gov[.]in[.]kashmirattack[.]exposed/service/home/
+https://trade4wealth[.]in/admin/assets/js/
+https://trade4wealth[.]in/admin/assets/css/default/index.php
+https://trade4wealth[.]in/admin/assets/css/default/sysinte.hta
+https://email.gov.in.drdosurvey[.]info/content/press-releases-ministry-defence-0[.]html
+
+### SPECIFIC REGISTRY KEYS OR FILE PATHS
+%ALLUSERSPROFILE% directory (C:\ProgramData)
+\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+C:\jnmhxrv cstm\jnmhxrv cstm\obj\Debug\jnmhxrv cstm.pdb
+D:\Projects\Wibemax\WinP\WinP\obj\Debug\WinP.pdb
+D:\Projects\Wibemax\Windows RAT\1 Windows 10 Client\Win8P-Sunny\2022-04-15-Win8P Sunny\obj\Debug\FUJIKBattery.pdb
+
+### FILE NAMES
+tasksche.exe
+mapeal.sh
+sysinte.hta
+Action Points & Response by Govt Regarding Pahalgam Terror Attack .pdf
+Report Update Regarding Pahalgam Terror Attack.pdf
+J&K Police Letter Dated 17 April 2025.pdf
+ROD on Review Meeting held on 10 April 2025 by Secy DRDO.pdf
+RECORD OF DISCUSSION TECHNICAL REVIEW MEETING NOTICE, 07 April 2025 (1).pdf
+MEETING NOTICE – 13th JWG meeting between India and Nepal.pdf
+Agenda Points for Joint Venture Meeting at IHQ MoD on 04 March 2025.pdf
+DO Letter Integrated HQ of MoD dated 3 March.pdf
+Collegiate Meeting Notice & Action Points MoD 24 March.pdf
+Letter to the Raksha Mantri Office Dated 26 Feb 2025.pdf
+pdf Alleged Case of Sexual Harassment by Senior Army Officer.pdf
+Agenda Points of Meeting of Dept of Defence held at 11March 25.html
+Action Points of Meeting of Dept of Defence held at 10March 25.html
+Agenda Points of Meeting of External Affairs Dept 10 March 25.pdf.html
+Report & Update Regarding Pahalgam Terror Attack.ppam
+jnmxrvt hcsm.exe
+WEISTT.jpg
+
+### FILE HASH MD5
+b03211f6feccd3a62273368b52f6079d
+d946e3e94fec670f9e47aca186ecaabe
+7b08580a4f6995f645a5bf8addbefa68
+3efec6ffcbfe79f71f5410eb46f1c19e
+7c736e2d2333463fbfe179b1929e3317
+c4fb60217e3d43eac92074c45228506a
+1b71434e049fb8765d528ecabd722072
+f5cd5f616a482645bbf8f4c51ee38958
+70b8040730c62e4a52a904251fa74029
+fa2c39adbb0ca7aeab5bc5cd1ffb2f08
+5f03629508f46e822cf08d7864f585d3
+2fde001f4c17c8613480091fa48b55a0
+ca27970308b2fdeaa3a8e8e53c86cd3e
+e18c4172329c32d8394ba0658d5212c2
+c4f591cad9d158e2fbb0ed6425ce3804
+00cd306f7cdcfe187c561dd42ab40f33
+fb64c22d37c502bde55b19688d40c803
+172fff2634545cf59d59c179d139e0aa
+c1f4c9f969f955dec2465317b526b600
+026e8e7acb2f2a156f8afff64fd54066
+
+### FILE HASH SHA1
+973cb3afc7eb47801ff5d2487d2734ada6b4056f
+911226d78918b303df5110704a8c8bb599bcd403
+cf3704334494fe0ebc5612783e8dc3e3a5dd713f
+3ba03d625f80fec1b59569bdee8df000904074ac
+b2029f032702a4042fd2bcb8181b1124b82f3090
+2539e2753579cffc605991614a7ea7fbe7893d6e
+2b4f38b38771e1ed8cd02a828a6f3ab567a2c913
+842f55579db786e46b20f7a7053861170e1c0c5e
+e000596ad65b2427d7af3313e5748c2e7f37fba7
+738d31ceca78ffd053403d3b2bc15847682899a0
+516db7998e3bf46858352697c1f103ef456f2e8e
+ead0b72b40e836358885d56f5a4a2a6f936c68a7
+f6becf8172f155049fb5c198933f22e4049fd10c
+a992a3e15f6933c1697dfa3c271d850c777d5f33
+dae91c6f8a08df860a1e7571a4a7f984c8b61bb0
+2e0528a9bdc41545e5655a02f5f6b6acae00b37a
+9ed39c6a3faab057e6c962f0b2aaab07728c5555
+68a848730402c99df2b244e4f421965147b6564e
+af6608755e2708335dc80961a9e634f870aecf3c
+fd46411b315beb36926877e4b021721fcd111d7a
+87e0ea08713a746d53bef7fb04632bfcd6717fa9
+ea1cf4ad50ab1e6eb861aa7943e93ac21b59bdc2
+2e3ded16b6b90f76c5cf39de7a3514ee907cb869
+
+### FILE HASH SHA256
+08ba906e91048b6e58d451df5513494cc4aafdd384c04b728fd9169c9f76a66e
+d1a1eaefe6bd2e245bba369e966d7a8eab9ed6ad1fa827321e5889cc8d43f976
+486b535c91e8609867bce918693dd24f0d93437a710281ea65f34a9c088211ef
+3bb2347b4fdc81ad3263ce57a067a91cd7c214c1ab79720d55225de5a621f4be
+b43febc2a497e755664c5ad8d66c83b53d5607512200823b554e2722922a5f55
+6fcbcdcafc5accf1b2b0453eccd93c203ab1dca9920521b107c9cff8c0236eb2
+5815e06deb5ea6f7ce82690b80828546c48a7a06f1ebceaac896565f4bf9f479
+7087e5f768acaad83550e6b1b9696477089d2797e8f6e3f9a9d69c77177d030e
+f04acb3414c0f8eaf24e5cce18fc6fc800c4080fc20a470718392c536f5505e8
+47a6ea2947d46e9547989e9c8870805fb585d3ff16a4b9c7b6e8b4a322b61eb3
+0937027acc40dbeb33584d0acc5a08869feadb3954e190d2680b1793ba8e603d
+4ea66e84c2c3f68135dfd5cec21abe421d69eae2da403de15e780620c8d0fa7b
+b56a0aeb468371e63608d14c47804a79f326879052001afd5996ffd7bb7881d8
+6c69e5353fe0420844fbc6ba6d8b3854a7fd57dcec5b2a3f3fafce8874bc042a
+d0c30db4a14943bb9d94f577b4cd515f9ce6a49a30c55d63a848103754f40439
+1d56e3fd6e8b45cf01b36cc95e35eb3644018231e528f4ac115c39c7e01e30ba
+
+### IPv4
+185.235.137.195
+185.117.90.212
+45.141.58.33
+176.65.143.215
+93.127.133.58
+45.141.58.224
+45.141.59.167
+78.40.143.189
+37.221.64.134
+78.40.143.98
+84.54.51.12
+104.129.27.14
+192.64.118.76
+45.141.59.72
+
+### MITRE ATT&CK
+T1083: File and Directory Discovery
+T1036: Masquerading
+T1564: N/A
+T1057: Process Discovery
+T1189: Drive-by Compromise
+T1003: Credential Dumping
+T1608: N/A
+T1071: Standard Application Layer Protocol
+T1584: N/A
+T1203: Exploitation for Client Execution
+T1204: User Execution
+T1548: N/A
+T1598: N/A
+T1566: N/A
+T1568: N/A
+T1012: Query Registry
+T1005: Data from Local System
+T1134: Access Token Manipulation
+T1542: N/A
+T1082: System Information Discovery
+T1033: System Owner/User Discovery
+T1055: Process Injection
+T1547: N/A
+T1113: Screen Capture
+T1041: Exfiltration Over Command and Control Channel
+T1014: Rootkit
+T1027: Obfuscated Files or Information
+T1583: N/A
+T1059: Command-Line Interface
+
+### URL
+
+http://jkpolice.gov[.]in[.]kashmiraxxack[.]exposed/service/home
+http://email[.]gov[.]in[.]departmentofspace[.]info/service/home/
+http://email[.]gov[.]in[.]defenceindia[.]ltd/service/home/
+http://email[.]gov[.]in[.]briefcases[.]email/service/home/
